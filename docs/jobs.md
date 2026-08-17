@@ -10,11 +10,11 @@
 | Location | Iași |
 | Website | [https://www.taktile.com](https://www.taktile.com) |
 | Careers | [https://jobs.ashbyhq.com/taktile](https://jobs.ashbyhq.com/taktile) |
-| Last Scraped | 2026-08-16 |
+| Last Scraped | 2026-08-17 |
 
 ## Current Job Listings (8)
 
-_Generated: 2026-08-16T06:50:08.959Z_
+_Generated: 2026-08-17T07:06:52.379Z_
 
 ### Software Engineer Intern
 
