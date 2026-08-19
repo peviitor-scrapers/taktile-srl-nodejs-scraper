@@ -7,14 +7,14 @@
 | CIF | 51981214 |
 | Brand | TAKTILE |
 | Status | activ |
-| Location | JUD. IAŞI, MUN. IAŞI, STR. PALAS, NR.7E, CLADIREA C2. UNITED BUSINESS CENTER 3. BIROU NR. 1, ET.3 |
+| Location | Iași |
 | Website | [https://www.taktile.com](https://www.taktile.com) |
 | Careers | [https://jobs.ashbyhq.com/taktile](https://jobs.ashbyhq.com/taktile) |
-| Last Scraped | 2026-08-18 |
+| Last Scraped | 2026-08-19 |
 
 ## Current Job Listings (8)
 
-_Generated: 2026-08-18T06:54:00.684Z_
+_Generated: 2026-08-19T06:54:05.537Z_
 
 ### Software Engineer Intern
 
