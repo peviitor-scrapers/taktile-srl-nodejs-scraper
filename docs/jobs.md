@@ -7,14 +7,14 @@
 | CIF | 51981214 |
 | Brand | TAKTILE |
 | Status | activ |
-| Location | JUD. IAŞI, MUN. IAŞI, STR. PALAS, NR.7E, CLADIREA C2. UNITED BUSINESS CENTER 3. BIROU NR. 1, ET.3 |
+| Location | Iași |
 | Website | [https://www.taktile.com](https://www.taktile.com) |
 | Careers | [https://jobs.ashbyhq.com/taktile](https://jobs.ashbyhq.com/taktile) |
-| Last Scraped | 2026-08-29 |
+| Last Scraped | 2026-08-30 |
 
 ## Current Job Listings (6)
 
-_Generated: 2026-08-29T12:34:26.631Z_
+_Generated: 2026-08-30T11:42:41.877Z_
 
 ### Backend Engineer - Team Atlas
 
