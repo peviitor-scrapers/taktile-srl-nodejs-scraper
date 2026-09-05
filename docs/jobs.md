@@ -10,11 +10,11 @@
 | Location | JUD. IAŞI, MUN. IAŞI, STR. PALAS, NR.7E, CLADIREA C2. UNITED BUSINESS CENTER 3. BIROU NR. 1, ET.3 |
 | Website | [https://www.taktile.com](https://www.taktile.com) |
 | Careers | [https://jobs.ashbyhq.com/taktile](https://jobs.ashbyhq.com/taktile) |
-| Last Scraped | 2026-09-04 |
+| Last Scraped | 2026-09-05 |
 
-## Current Job Listings (7)
+## Current Job Listings (8)
 
-_Generated: 2026-09-04T11:02:04.842Z_
+_Generated: 2026-09-05T10:23:10.708Z_
 
 ### Backend Engineer - Team Atlas
 
@@ -61,6 +61,13 @@ _Generated: 2026-09-04T11:02:04.842Z_
 ### Senior Full-Stack Engineer - Team Agent
 
 - **URL:** [https://jobs.ashbyhq.com/taktile/c9d47dd2-3252-4266-a581-b9d1b46e9297](https://jobs.ashbyhq.com/taktile/c9d47dd2-3252-4266-a581-b9d1b46e9297)
+- **Work Mode:** hybrid
+- **Location:** Iași
+- **Status:** scraped
+
+### Senior Full-Stack Engineer - Team Decide
+
+- **URL:** [https://jobs.ashbyhq.com/taktile/90c801fa-cbf9-4d56-89c5-133831d398d0](https://jobs.ashbyhq.com/taktile/90c801fa-cbf9-4d56-89c5-133831d398d0)
 - **Work Mode:** hybrid
 - **Location:** Iași
 - **Status:** scraped
