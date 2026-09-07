@@ -10,11 +10,11 @@
 | Location | JUD. IAŞI, MUN. IAŞI, STR. PALAS, NR.7E, CLADIREA C2. UNITED BUSINESS CENTER 3. BIROU NR. 1, ET.3 |
 | Website | [https://www.taktile.com](https://www.taktile.com) |
 | Careers | [https://jobs.ashbyhq.com/taktile](https://jobs.ashbyhq.com/taktile) |
-| Last Scraped | 2026-09-06 |
+| Last Scraped | 2026-09-07 |
 
 ## Current Job Listings (8)
 
-_Generated: 2026-09-06T10:42:07.583Z_
+_Generated: 2026-09-07T12:09:39.076Z_
 
 ### Backend Engineer - Team Atlas
 
