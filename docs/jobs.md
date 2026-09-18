@@ -10,11 +10,11 @@
 | Location | JUD. IAŞI, MUN. IAŞI, STR. PALAS, NR.7E, CLADIREA C2. UNITED BUSINESS CENTER 3. BIROU NR. 1, ET.3 |
 | Website | [https://www.taktile.com](https://www.taktile.com) |
 | Careers | [https://jobs.ashbyhq.com/taktile](https://jobs.ashbyhq.com/taktile) |
-| Last Scraped | 2026-09-17 |
+| Last Scraped | 2026-09-18 |
 
-## Current Job Listings (7)
+## Current Job Listings (6)
 
-_Generated: 2026-09-17T11:25:08.858Z_
+_Generated: 2026-09-18T10:58:37.394Z_
 
 ### Backend Engineer - Team Atlas
 
@@ -26,13 +26,6 @@ _Generated: 2026-09-17T11:25:08.858Z_
 ### Technical Program Manager
 
 - **URL:** [https://jobs.ashbyhq.com/taktile/9bf4f087-9780-4e65-94d8-803c506b4ff3](https://jobs.ashbyhq.com/taktile/9bf4f087-9780-4e65-94d8-803c506b4ff3)
-- **Work Mode:** hybrid
-- **Location:** Iași
-- **Status:** scraped
-
-### AI Enablement Engineer
-
-- **URL:** [https://jobs.ashbyhq.com/taktile/84a12aa1-f18d-4521-beef-b142eaf31621](https://jobs.ashbyhq.com/taktile/84a12aa1-f18d-4521-beef-b142eaf31621)
 - **Work Mode:** hybrid
 - **Location:** Iași
 - **Status:** scraped
