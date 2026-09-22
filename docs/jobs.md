@@ -10,13 +10,13 @@
 | Location | JUD. IAŞI, MUN. IAŞI, STR. PALAS, NR.7E, CLADIREA C2. UNITED BUSINESS CENTER 3. BIROU NR. 1, ET.3 |
 | Website | [https://www.taktile.com](https://www.taktile.com) |
 | Careers | [https://jobs.ashbyhq.com/taktile](https://jobs.ashbyhq.com/taktile) |
-| Last Scraped | 2026-09-21 |
+| Last Scraped | 2026-09-22 |
 
-## Current Job Listings (6)
+## Current Job Listings (5)
 
-_Generated: 2026-09-21T12:32:24.676Z_
+_Generated: 2026-09-22T11:21:02.713Z_
 
-### Backend Engineer - Team Atlas
+### Senior Backend Engineer - Team Atlas
 
 - **URL:** [https://jobs.ashbyhq.com/taktile/97cd39e0-de71-4361-a035-2250a689fb70](https://jobs.ashbyhq.com/taktile/97cd39e0-de71-4361-a035-2250a689fb70)
 - **Work Mode:** hybrid
@@ -33,13 +33,6 @@ _Generated: 2026-09-21T12:32:24.676Z_
 ### Senior Full-Stack Engineer - Platform team
 
 - **URL:** [https://jobs.ashbyhq.com/taktile/050f12b4-23ed-400d-bdd1-ddbc8a8d0ac5](https://jobs.ashbyhq.com/taktile/050f12b4-23ed-400d-bdd1-ddbc8a8d0ac5)
-- **Work Mode:** hybrid
-- **Location:** Iași
-- **Status:** scraped
-
-### GRC Engineer - Platform Team
-
-- **URL:** [https://jobs.ashbyhq.com/taktile/90f236d5-d74e-42c8-9501-1b343d9c2e03](https://jobs.ashbyhq.com/taktile/90f236d5-d74e-42c8-9501-1b343d9c2e03)
 - **Work Mode:** hybrid
 - **Location:** Iași
 - **Status:** scraped
