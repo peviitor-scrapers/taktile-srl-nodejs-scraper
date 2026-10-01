@@ -10,11 +10,18 @@
 | Location | JUD. IAŞI, MUN. IAŞI, STR. PALAS, NR.7E, CLADIREA C2. UNITED BUSINESS CENTER 3. BIROU NR. 1, ET.3 |
 | Website | [https://www.taktile.com](https://www.taktile.com) |
 | Careers | [https://jobs.ashbyhq.com/taktile](https://jobs.ashbyhq.com/taktile) |
-| Last Scraped | 2026-09-30 |
+| Last Scraped | 2026-10-01 |
 
-## Current Job Listings (2)
+## Current Job Listings (3)
 
-_Generated: 2026-09-30T12:19:14.540Z_
+_Generated: 2026-10-01T12:54:07.471Z_
+
+### Senior AI Tooling Engineer
+
+- **URL:** [https://jobs.ashbyhq.com/taktile/84a12aa1-f18d-4521-beef-b142eaf31621](https://jobs.ashbyhq.com/taktile/84a12aa1-f18d-4521-beef-b142eaf31621)
+- **Work Mode:** hybrid
+- **Location:** Iași
+- **Status:** scraped
 
 ### Senior Full-Stack Engineer - Platform team
 
