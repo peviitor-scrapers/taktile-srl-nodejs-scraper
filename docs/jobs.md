@@ -10,11 +10,18 @@
 | Location | JUD. IAŞI, MUN. IAŞI, STR. PALAS, NR.7E, CLADIREA C2. UNITED BUSINESS CENTER 3. BIROU NR. 1, ET.3 |
 | Website | [https://www.taktile.com](https://www.taktile.com) |
 | Careers | [https://jobs.ashbyhq.com/taktile](https://jobs.ashbyhq.com/taktile) |
-| Last Scraped | 2026-10-06 |
+| Last Scraped | 2026-10-07 |
 
-## Current Job Listings (4)
+## Current Job Listings (5)
 
-_Generated: 2026-10-06T13:09:26.012Z_
+_Generated: 2026-10-07T13:04:44.769Z_
+
+### Software Engineer Intern
+
+- **URL:** [https://jobs.ashbyhq.com/taktile/bce11078-1da2-4826-a70e-7eccfd702dd1](https://jobs.ashbyhq.com/taktile/bce11078-1da2-4826-a70e-7eccfd702dd1)
+- **Work Mode:** hybrid
+- **Location:** Iași
+- **Status:** scraped
 
 ### Senior Backend Engineer - Team Atlas
 
