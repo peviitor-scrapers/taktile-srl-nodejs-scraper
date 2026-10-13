@@ -10,11 +10,11 @@
 | Location | JUD. IAŞI, MUN. IAŞI, STR. PALAS, NR.7E, CLADIREA C2. UNITED BUSINESS CENTER 3. BIROU NR. 1, ET.3 |
 | Website | [https://www.taktile.com](https://www.taktile.com) |
 | Careers | [https://jobs.ashbyhq.com/taktile](https://jobs.ashbyhq.com/taktile) |
-| Last Scraped | 2026-10-12 |
+| Last Scraped | 2026-10-13 |
 
 ## Current Job Listings (5)
 
-_Generated: 2026-10-12T15:03:55.405Z_
+_Generated: 2026-10-13T13:57:59.132Z_
 
 ### Software Engineer Intern
 
@@ -30,7 +30,7 @@ _Generated: 2026-10-12T15:03:55.405Z_
 - **Location:** Iași
 - **Status:** scraped
 
-### Senior AI Tooling Engineer
+### Senior AI Enablement Engineer
 
 - **URL:** [https://jobs.ashbyhq.com/taktile/84a12aa1-f18d-4521-beef-b142eaf31621](https://jobs.ashbyhq.com/taktile/84a12aa1-f18d-4521-beef-b142eaf31621)
 - **Work Mode:** hybrid
