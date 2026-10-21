@@ -10,11 +10,11 @@
 | Location | JUD. IAŞI, MUN. IAŞI, STR. PALAS, NR.7E, CLADIREA C2. UNITED BUSINESS CENTER 3. BIROU NR. 1, ET.3 |
 | Website | [https://www.taktile.com](https://www.taktile.com) |
 | Careers | [https://jobs.ashbyhq.com/taktile](https://jobs.ashbyhq.com/taktile) |
-| Last Scraped | 2026-10-20 |
+| Last Scraped | 2026-10-21 |
 
 ## Current Job Listings (5)
 
-_Generated: 2026-10-20T11:17:12.961Z_
+_Generated: 2026-10-21T11:32:52.962Z_
 
 ### Software Engineer Intern
 
