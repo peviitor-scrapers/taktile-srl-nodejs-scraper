@@ -10,11 +10,11 @@
 | Location | JUD. IAŞI, MUN. IAŞI, STR. PALAS, NR.7E, CLADIREA C2. UNITED BUSINESS CENTER 3. BIROU NR. 1, ET.3 |
 | Website | [https://www.taktile.com](https://www.taktile.com) |
 | Careers | [https://jobs.ashbyhq.com/taktile](https://jobs.ashbyhq.com/taktile) |
-| Last Scraped | 2026-11-17 |
+| Last Scraped | 2026-11-18 |
 
 ## Current Job Listings (6)
 
-_Generated: 2026-11-17T15:48:08.723Z_
+_Generated: 2026-11-18T15:27:47.226Z_
 
 ### Senior Backend Engineer - Developer Experience & Productivity
 
